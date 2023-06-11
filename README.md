@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidGaleno
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning Angular, React, React Native and Java
 
 
 <!---
