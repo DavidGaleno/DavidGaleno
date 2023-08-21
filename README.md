@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidGaleno
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in mobile and fullstack development
 - 🌱 I’m currently learning Flutter and Python
 
 
